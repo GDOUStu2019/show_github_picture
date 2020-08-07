@@ -1,4 +1,4 @@
-# 用来解决github加载不出来问题
+# 用来解决window系统下github图片加载不出来问题
 
 > 1.win + r
 >
